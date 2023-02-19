@@ -1,7 +1,8 @@
 # Congress.gov Law Scraper
 
 This is a Python script that scrapes all the laws from the website Congress.gov and saves them to an Excel file. The script uses the Selenium library to interact with the website and BeautifulSoup to parse the HTML.
-Getting Started
+
+### Getting Started
 
 To use this script, you will need to have Python 3 and the following libraries installed:
 * Selenium
